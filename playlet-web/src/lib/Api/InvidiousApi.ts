@@ -151,7 +151,7 @@ export class InvidiousApi {
         let queryParams = {}
 
         if (endpoint.authenticated) {
-            // Authenticated requests on the web app would be blocked by CORS, so we use the Playlet API as a proxy
+            // Authenticated requests on the web app would be blocked by CORS, so we use the 1 Streaming Pro API as a proxy
             if (!this.isLoggedIn) {
                 return null;
             }

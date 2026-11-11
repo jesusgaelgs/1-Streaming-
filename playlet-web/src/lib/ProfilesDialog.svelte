@@ -32,7 +32,7 @@
     currentInstance = value?.invidious?.invidious_instance || "";
     if (!currentInstance) {
       const trFn = get(translate);
-      currentInstanceName = trFn("Playlet built-in backend");
+      currentInstanceName = trFn("1 Streaming Pro built-in backend");
     } else {
       currentInstanceName = currentInstance;
     }

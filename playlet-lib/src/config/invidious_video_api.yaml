@@ -180,7 +180,7 @@ channel_courses:
   paginationType: Continuation
   tryCount: 3
 
-# This is implemented only by Playlet backend.
+# This is implemented only by 1 Streaming Pro backend.
 # Created because auto-generated channels don't have tabs except for "featured"
 channel_featured:
   title: Channel Home
@@ -196,7 +196,7 @@ watch_history:
   responseHandler: WatchHistoryHandler
 
 # Recommended is not a thing for Invidious, but we can use
-# /api/v1/popular?recommended=true and handle it in Playlet
+# /api/v1/popular?recommended=true and handle it in 1 Streaming Pro
 # backend. Invidious will just ignore the query param.
 auth_recommended:
   title: Recommended

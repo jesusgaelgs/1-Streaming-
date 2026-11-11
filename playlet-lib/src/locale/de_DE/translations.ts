@@ -53,8 +53,8 @@
         <translation>Wählen Sie ein Video, eine Wiedergabeliste oder einen Kanal, um Lesezeichen hinzuzufügen.</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>Die Playlet Library Version hat sich geändert. Playlet startet nun neu.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>Die 1 Streaming Pro Library Version hat sich geändert. 1 Streaming Pro startet nun neu.</translation>
     </message>
     <message>
         <source>We didn&apos;t find any results for your search. Please try again with a different query or different filters.</source>
@@ -113,8 +113,8 @@
         <translation>IP Adresse nicht gefunden: ist dieses Gerät mit dem Internet verbunden?</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Von der YouTube App zu Playlet mithilfe der Cast-Funktion übertragen</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Von der YouTube App zu 1 Streaming Pro mithilfe der Cast-Funktion übertragen</translation>
     </message>
     <message>
         <source>Loading...</source>
@@ -157,8 +157,8 @@
         <translation>Suchverlauf gelöscht.</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Löscht den Suchverlauf von Playlet. Führt zu veränderten Suchvorschlägen. Dies hat keinen Einfluss auf den Wiedergabeverlauf auf Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Löscht den Suchverlauf von 1 Streaming Pro. Führt zu veränderten Suchvorschlägen. Dies hat keinen Einfluss auf den Wiedergabeverlauf auf Invidious.</translation>
     </message>
     <message>
         <source>Edit home screen</source>
@@ -169,8 +169,8 @@
         <translation>Abschnitte auf der Startseite aktivieren/deaktivieren und verschieben</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>Die Version der Playlet Library, die genutzt werden soll. Die Versionen entsprechen den markierten Releases auf GitHub. Releases, die die Datei playlet-lib.zip nicht enthalten, sind deaktiviert.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>Die Version der 1 Streaming Pro Library, die genutzt werden soll. Die Versionen entsprechen den markierten Releases auf GitHub. Releases, die die Datei playlet-lib.zip nicht enthalten, sind deaktiviert.</translation>
     </message>
     <message>
         <source>Request not sent.</source>
@@ -365,8 +365,8 @@
         <translation>Beachten Sie, dass ein Invidious-Benutzerkonto nicht das gleiche wie ein YouTube-Benutzerkonto ist.</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>Wollen Sie Playlet verlassen?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>Wollen Sie 1 Streaming Pro verlassen?</translation>
     </message>
     <message>
         <source>Sort %1 by</source>
@@ -621,12 +621,12 @@
         <translation>Beachten Sie, dass es sich bei Lesezeichen um eine experimentelle Funktion handelt.</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Playlet Web App</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>1 Streaming Pro Web App</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Playlet Fernbedienung im Browser nutzen</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>1 Streaming Pro Fernbedienung im Browser nutzen</translation>
     </message>
     <message>
         <source>Link with Wi-Fi</source>
@@ -713,8 +713,8 @@
         <translation>Kapitel</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Danke, dass Sie Playlet nutzen.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Danke, dass Sie 1 Streaming Pro nutzen.</translation>
     </message>
     <message>
         <source>Device connected</source>
@@ -729,8 +729,8 @@
         <translation>Anwenden</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>Möchten Sie die Playlet Library Version wirklich zu %1 ändern?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>Möchten Sie die 1 Streaming Pro Library Version wirklich zu %1 ändern?</translation>
     </message>
     <message>
         <source>Error with login, please refresh the page.</source>
@@ -1041,8 +1041,8 @@
         <translation>Entwicklereinstellungen</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Playlet Library Version</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>1 Streaming Pro Library Version</translation>
     </message>
     <message>
         <source>Loading</source>
@@ -1113,8 +1113,8 @@
         <translation>Haben Sie Feedback? Machen Sie uns mit einem %IssueStart%GitHub Issue%IssueEnd% oder mit einer %EmailStart%Email%EmailEnd% darauf aufmerksam.</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>Dies wird Playlet neustarten.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>Dies wird 1 Streaming Pro neustarten.</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -1229,8 +1229,8 @@
         <translation>Kurse</translation>
     </message>
     <message>
-        <source>Playlet built-in backend</source>
-        <translation>Playlet eingebautes Backend</translation>
+        <source>1 Streaming Pro built-in backend</source>
+        <translation>1 Streaming Pro eingebautes Backend</translation>
     </message>
     <message>
         <source>Recommended</source>
@@ -1325,12 +1325,12 @@
         <translation>Kategorien</translation>
     </message>
     <message>
-        <source>Playlet is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
-        <translation>Playlet ist eine Drittanbieter-App, wird weder von YouTube noch von Google unterstützt, empfohlen oder gesponsert und steht in keiner Verbindung zu diesen. Alle hier erwähnten (eingetragenen) Marken sind geistiges Eigentum ihrer jeweiligen Besitzer und werden nur zu Identifikationszwecken genutzt.</translation>
+        <source>1 Streaming Pro is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
+        <translation>1 Streaming Pro ist eine Drittanbieter-App, wird weder von YouTube noch von Google unterstützt, empfohlen oder gesponsert und steht in keiner Verbindung zu diesen. Alle hier erwähnten (eingetragenen) Marken sind geistiges Eigentum ihrer jeweiligen Besitzer und werden nur zu Identifikationszwecken genutzt.</translation>
     </message>
     <message>
-        <source>By using Playlet and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of Playlet are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
-        <translation>Die Benutzung von Playlet und das Anmelden mit einem YouTube-Benutzerkonto erfolgt auf Ihr eigenes Risiko hin. Die Entwickler von Playlet sind für jedwegen Schaden, inklusive (aber nicht ausschließlich) dem Verlust von Daten, der Sperrung/ Inaktivierung von Benutzerkonten und Hacking, nicht haftbar oder verantwortlich.</translation>
+        <source>By using 1 Streaming Pro and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of 1 Streaming Pro are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
+        <translation>Die Benutzung von 1 Streaming Pro und das Anmelden mit einem YouTube-Benutzerkonto erfolgt auf Ihr eigenes Risiko hin. Die Entwickler von 1 Streaming Pro sind für jedwegen Schaden, inklusive (aber nicht ausschließlich) dem Verlust von Daten, der Sperrung/ Inaktivierung von Benutzerkonten und Hacking, nicht haftbar oder verantwortlich.</translation>
     </message>
     <message>
         <source>Select option for %1</source>
@@ -1349,8 +1349,8 @@
         <translation>Auf YouTube öffnen</translation>
     </message>
     <message>
-        <source>Help improve Playlet by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
-        <translation>Helfen Sie mit, Playlet zu verbessern, indem Sie die diagnostische Datenerhebung aktivieren. Diese wird dem Entwickler anonymisierte Nutzungsdaten schicken.</translation>
+        <source>Help improve 1 Streaming Pro by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
+        <translation>Helfen Sie mit, 1 Streaming Pro zu verbessern, indem Sie die diagnostische Datenerhebung aktivieren. Diese wird dem Entwickler anonymisierte Nutzungsdaten schicken.</translation>
     </message>
     <message>
         <source>Enable Diagnostics</source>

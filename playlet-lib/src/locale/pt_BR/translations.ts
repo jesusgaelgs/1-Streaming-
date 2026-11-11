@@ -165,8 +165,8 @@
         <translation>Por favor, note que uma conta Invidious é diferente de uma conta do YouTube.</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>Você quer sair do Playlet?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>Você quer sair do 1 Streaming Pro?</translation>
     </message>
     <message>
         <source>Sort %1 by</source>
@@ -485,8 +485,8 @@
         <translation>Acesso exclusivo</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>Isso vai reiniciar o Playlet.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>Isso vai reiniciar o 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>Test</source>
@@ -617,8 +617,8 @@
         <translation>Por favor, note que marcadores é um recurso experimental.</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Playlet Web App</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>1 Streaming Pro Web App</translation>
     </message>
     <message>
         <source>Failed to generate manual pairing code</source>
@@ -657,8 +657,8 @@
         <translation>Ativar o histórico de pesquisa</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Limpar histórico de pesquisa da Playlet. Isso afeta as sugestões de pesquisa. Isso não afeta o histórico de assistido no Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Limpar histórico de pesquisa da 1 Streaming Pro. Isso afeta as sugestões de pesquisa. Isso não afeta o histórico de assistido no Invidious.</translation>
     </message>
     <message>
         <source>Search history cleared.</source>
@@ -681,8 +681,8 @@
         <translation>Mostrar uma notificação quando um vídeo é adicionado à fila</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>A versão do Playlet Lib para usar. Estes correspondem a lançamentos marcados no Github. As versões que não têm um arquivo playlet-lib.zip estão desativadas.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>A versão do 1 Streaming Pro Lib para usar. Estes correspondem a lançamentos marcados no Github. As versões que não têm um arquivo playlet-lib.zip estão desativadas.</translation>
     </message>
     <message>
         <source>Interaction Reminder (Subscribe)</source>
@@ -829,8 +829,8 @@
         <translation>Para adicionar favoritos, selecione um vídeo, lista de reprodução ou canal e adicione como marcador.</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Obrigado por usar o Playlet.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Obrigado por usar o 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>You have feedback? Let us know by %IssueStart%creating an issue on Github%IssueEnd% or by %EmailStart%sending an email%EmailEnd%.</source>
@@ -845,12 +845,12 @@
         <translation>Aplicar</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>Você tem certeza de que deseja alterar a versão da blibioteca Playlet para %1?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>Você tem certeza de que deseja alterar a versão da blibioteca 1 Streaming Pro para %1?</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>A versão da blibioteca Playlet foi alterada. O Playlet agora será reiniciado.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>A versão da blibioteca 1 Streaming Pro foi alterada. O 1 Streaming Pro agora será reiniciado.</translation>
     </message>
     <message>
         <source>Error with login, please refresh the page.</source>
@@ -1145,12 +1145,12 @@
         <translation>Para adicionar marcadores, segure &quot;OK&quot; em um vídeo, lista de reprodução ou canal.</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Use Playlet Remote no navegador</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>Use 1 Streaming Pro Remote no navegador</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Transmitir do aplicativo do YouTube para Playlet</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Transmitir do aplicativo do YouTube para 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Wired connection</source>
@@ -1205,8 +1205,8 @@
         <translation>Notificações de filas</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Versão da blibioteca do Playlet</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>Versão da blibioteca do 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Refresh Bookmarks</source>
@@ -1225,7 +1225,7 @@
         <translation>Cursos</translation>
     </message>
     <message>
-        <source>Playlet built-in backend</source>
+        <source>1 Streaming Pro built-in backend</source>
         <translation>Back-end integrado do playlet</translation>
     </message>
     <message>

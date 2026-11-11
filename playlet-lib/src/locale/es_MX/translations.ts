@@ -105,8 +105,8 @@
         <translation>Escanea el código QR</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>Quieres salir de Playlet?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>Quieres salir de 1 Streaming Pro?</translation>
     </message>
     <message>
         <source>Latest</source>
@@ -161,8 +161,8 @@
         <translation>Para agregar favoritos, escoge un video, playlist o canal, y agrégalo a tus favoritos.</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Gracias por usar Playlet.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Gracias por usar 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>Updated 1 minute ago</source>
@@ -229,8 +229,8 @@
         <translation>Borrar historial de búsqueda</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Borrar historial de búsqueda de Playlet. Esto solo afecta las sugerencias de búsqueda. Esto no afecta el historial de búsqueda en Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Borrar historial de búsqueda de 1 Streaming Pro. Esto solo afecta las sugerencias de búsqueda. Esto no afecta el historial de búsqueda en Invidious.</translation>
     </message>
     <message>
         <source>Search history cleared.</source>
@@ -453,8 +453,8 @@
         <translation>Se estrena en ^n días</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Usa Playlet de forma remota en el navegador</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>Usa 1 Streaming Pro de forma remota en el navegador</translation>
     </message>
     <message>
         <source>Link with TV code</source>
@@ -889,12 +889,12 @@
         <translation>URL válida</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Transmite de la app de Youtube a Playlet</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Transmite de la app de Youtube a 1 Streaming Pro</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Aplicación Web Playlet</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>Aplicación Web 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Tap the cast icon.</source>
@@ -925,8 +925,8 @@
         <translation>Solicitud cancelada.</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>Versión de Playlet Library cambiada. Playlet ahora se reiniciará.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>Versión de 1 Streaming Pro Library cambiada. 1 Streaming Pro ahora se reiniciará.</translation>
     </message>
     <message>
         <source>Latest (default)</source>
@@ -1053,12 +1053,12 @@
         <translation>Preferencias de desarrollador</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Versión de Playlet Library</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>Versión de 1 Streaming Pro Library</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>La versión de Playlet Library a utilizar. Estas corresponden a versiones etiquetadas en Github. Las versiones que no tienen un archivo playlet-lib.zip están deshabilitadas.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>La versión de 1 Streaming Pro Library a utilizar. Estas corresponden a versiones etiquetadas en Github. Las versiones que no tienen un archivo playlet-lib.zip están deshabilitadas.</translation>
     </message>
     <message>
         <source>Failed to load video information for %1</source>
@@ -1081,12 +1081,12 @@
         <translation>Tienes algún comentario? Háznoslo saber %IssueStart%creando un &quot;issue&quot; en Github%IssueEnd% o al %EmailStart%enviarnos un email%EmailEnd%.</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>Estás seguro de que quieres cambiar la versión de Playlet Library a %1?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>Estás seguro de que quieres cambiar la versión de 1 Streaming Pro Library a %1?</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>Esto reiniciará Playlet.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>Esto reiniciará 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>Queue on %1</source>
@@ -1165,8 +1165,8 @@
         <translation>Cursos</translation>
     </message>
     <message>
-        <source>Playlet built-in backend</source>
-        <translation>Backend de Playlet</translation>
+        <source>1 Streaming Pro built-in backend</source>
+        <translation>Backend de 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Filler</source>

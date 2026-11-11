@@ -1,4 +1,4 @@
-' Playlet (App to play videos from an Invidious server on Roku TVs)
+' 1 Streaming Pro (App to play videos from an Invidious server on Roku TVs)
 ' Copyright (C) 2025 Brahim Hadriche
 
 ' This program is free software: you can redistribute it and/or modify
@@ -37,13 +37,13 @@ function Main(args as object) as void
 
     if false
         ' These vars are needed to pass certification.
-        ' The actual work is done in Playlet Lib
+        ' The actual work is done in 1 Streaming Pro Lib
         ' bs:disable-next-line LINT1005
         _contentId = args.contentId
         ' bs:disable-next-line LINT1005
         _mediaType = args.mediaType
 
-        ' Do not signal app launch complete here, we're doing it over at Playlet Lib
+        ' Do not signal app launch complete here, we're doing it over at 1 Streaming Pro Lib
         ' This is needed to pass cetification
         scene.signalBeacon("AppLaunchComplete")
     end if

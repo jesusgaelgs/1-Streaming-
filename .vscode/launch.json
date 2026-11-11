@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Playlet (dev)",
+            "name": "1 Streaming Pro (dev)",
             "type": "brightscript",
             "request": "launch",
             "envFile": "${workspaceFolder}/.env",
@@ -38,7 +38,7 @@
             "enableDebugProtocol": true
         },
         {
-            "name": "Playlet (prod)",
+            "name": "1 Streaming Pro (prod)",
             "type": "brightscript",
             "request": "launch",
             "envFile": "${workspaceFolder}/.env",
@@ -57,13 +57,13 @@
             "preLaunchTask": "build-prod"
         },
         {
-            "name": "Playlet Web (Dev)",
+            "name": "1 Streaming Pro Web (Dev)",
             "command": "npm run dev:web",
             "request": "launch",
             "type": "node-terminal"
         },
         {
-            "name": "Playlet Web (Chrome)",
+            "name": "1 Streaming Pro Web (Chrome)",
             "type": "chrome",
             "request": "launch",
             "webRoot": "${workspaceFolder}/playlet-web/src"
@@ -103,10 +103,10 @@
     ],
     "compounds": [
         {
-            "name": "Playlet Web (Debug)",
+            "name": "1 Streaming Pro Web (Debug)",
             "configurations": [
-                "Playlet Web (Dev)",
-                "Playlet Web (Chrome)"
+                "1 Streaming Pro Web (Dev)",
+                "1 Streaming Pro Web (Chrome)"
             ],
             "stopAll": true
         }

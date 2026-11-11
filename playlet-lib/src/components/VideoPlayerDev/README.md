@@ -16,7 +16,7 @@ A thin coordinator over a pure-logic brain and projection-only renderers:
   finite state is an int enum. Pull-based — the coordinator forwards device signals, drains
   `TakeVideoIntent`/`TakeTimerCmd`, then pushes the brain's scalar outputs onto the renderers (`ApplyTransport`).
   The LIVE edge is clock-anchored: the coordinator computes it from the wall clock against the manifest's
-  `availabilityStartTime` (Playlet generates the manifest) and feeds `OnLiveEdge` on a 1s heartbeat, so it
+  `availabilityStartTime` (1 Streaming Pro generates the manifest) and feeds `OnLiveEdge` on a 1s heartbeat, so it
   advances through pauses/rebuffers/startup; `atLiveEdge` is a pure derivation (offset ≤ jitter band) over the
   learned inherent latency (the smallest edge−position gap observed) — no fall-behind heuristics.
 - **`PlayerCoordinatorLogic.bs`** — pure main-thread decisions (key→command, OK action, buffering gate, focus

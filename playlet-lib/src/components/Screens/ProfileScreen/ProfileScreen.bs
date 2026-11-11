@@ -69,7 +69,7 @@ function OnLoginWithInvidiousSelected() as void
         DialogUtils.ShowDialogEx({
             title: "No Invidious Instance"
             message: [
-                "Playlet built-in backend does not support Invidious login.",
+                "1 Streaming Pro built-in backend does not support Invidious login.",
                 "Can only login with Invidious if an Invidious instance is set in the settings."
             ]
         })

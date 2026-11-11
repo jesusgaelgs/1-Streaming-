@@ -4,25 +4,25 @@ function Init()
     ' TODO:P2 Add tooltip to each field with description of what it means
     m.displayNames = [{
         key: "app_version"
-        displayText: "Playlet App Version"
+        displayText: "1 Streaming Pro App Version"
     }, {
         key: "lib_version"
-        displayText: "Playlet Library Version"
+        displayText: "1 Streaming Pro Library Version"
     }, {
         key: "lib_version_latest"
-        displayText: "Playlet Library Latest Version"
+        displayText: "1 Streaming Pro Library Latest Version"
     }, {
         key: "lib_url"
-        displayText: "Playlet Library URL"
+        displayText: "1 Streaming Pro Library URL"
     }, {
         key: "lib_url_type"
-        displayText: "Playlet Library URL Type"
+        displayText: "1 Streaming Pro Library URL Type"
     }, {
         key: "app_git_commit_hash"
-        displayText: "Playlet App Git Commit Hash"
+        displayText: "1 Streaming Pro App Git Commit Hash"
     }, {
         key: "lib_git_commit_hash"
-        displayText: "Playlet Library Git Commit Hash"
+        displayText: "1 Streaming Pro Library Git Commit Hash"
     }, {
         key: "id"
         displayText: "App ID"

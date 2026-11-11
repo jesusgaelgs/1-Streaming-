@@ -7,7 +7,7 @@
 ' All finite state is an int enum; the only AA crossing per event is the small `videoIntent` (control + seek).
 '
 ' LIVE model: the edge comes from OnLiveEdge — the coordinator computes it from the wall clock anchored at the
-' manifest's availabilityStartTime (which Playlet itself generates), so it advances continuously: through
+' manifest's availabilityStartTime (which 1 Streaming Pro itself generates), so it advances continuously: through
 ' pauses, rebuffers and startup. atLiveEdge is a pure derivation (offset <= jitter band) and the latency
 ' baseline is just the smallest (edge - position) ever observed — no fall-behind heuristics.
 

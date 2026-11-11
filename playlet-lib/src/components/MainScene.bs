@@ -66,7 +66,7 @@ function ShowAnnouncement() as boolean
         messageId: "1755469284"
         title: "Playback fixes - Canary build"
         message: [
-            "Thank you for helping test the latest changes by using the Canary build of Playlet!"
+            "Thank you for helping test the latest changes by using the Canary build of 1 Streaming Pro!"
             "If you encounter any issues with playback, please report them on the GitHub issue tracker."
             "https://github.com/iBicha/playlet/issues"
         ]

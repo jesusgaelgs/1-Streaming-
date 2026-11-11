@@ -1,4 +1,4 @@
-# Playlet Brighterscript Plugins
+# 1 Streaming Pro Brighterscript Plugins
 
 - [Json5/Yaml support](#json5yaml-support)
 - [Manifest editing](#manifest-editing)
@@ -12,7 +12,7 @@
 - [Locale validation](#locale-validation)
 - [Protobuf Generator](#protobuf-generator)
 
-Playlet implements a few [Brighterscript Plugins](https://github.com/rokucommunity/brighterscript/blob/master/docs/plugins.md). The plugins inject themselves in the compilation process, allowing the modification of bs scripts, xml components, and even assets or the app manifest. Let's start with a simple one:
+1 Streaming Pro implements a few [Brighterscript Plugins](https://github.com/rokucommunity/brighterscript/blob/master/docs/plugins.md). The plugins inject themselves in the compilation process, allowing the modification of bs scripts, xml components, and even assets or the app manifest. Let's start with a simple one:
 
 <!-- markdownlint-disable MD024 -->
 
@@ -232,7 +232,7 @@ This plugin allows us to "bind" different node references together. It's a simpl
 
 ### Why
 
-Consider a real (but simplified) example from Playlet Lib:
+Consider a real (but simplified) example from 1 Streaming Pro Lib:
 
 ```xml
 <ApplicationInfo id="ApplicationInfo" />
@@ -568,5 +568,5 @@ These are needed for some functionality (e.g. Search filters in Innertube backen
 
 The plugin scans for `.proto` files, and parse them into plain objects using [protocol-buffers-schema](https://www.npmjs.com/package/protocol-buffers-schema)
 Then the right functions that get generated to serialize/deserialize types.
-Please note this generator is VERY bare bone: only features necessary for Playlet were implemented.
+Please note this generator is VERY bare bone: only features necessary for 1 Streaming Pro were implemented.
 The generation can be improved as needed.

@@ -2,7 +2,7 @@
 
 # Releasing
 
-The release process for Playlet is very simple, since most of the work is automated.
+The release process for 1 Streaming Pro is very simple, since most of the work is automated.
 The automation makes `canary` releases.
 
 ```makefile
@@ -11,7 +11,7 @@ canary release + QA = stable version
 
 These are mostly the steps when releasing a new version:
 
-## Playlet lib
+## 1 Streaming Pro lib
 
 - Use the [Release trigger](https://github.com/iBicha/playlet/actions/workflows/release-trigger.yml) to trigger a release
   - Run workflow from **main** branch
@@ -31,8 +31,8 @@ These are mostly the steps when releasing a new version:
   - If current versions says `Planned for $VERSION`, change it to `Released in $VERSION`
   - Add a `Planned for $VERSION` for the next version
 
-**The newest Playlet lib is now LIVE**
+**The newest 1 Streaming Pro lib is now LIVE**
 
-## Playlet
+## 1 Streaming Pro
 
 For releasing to the store (when needed), signed packages are attached to Github releases, ready to publish

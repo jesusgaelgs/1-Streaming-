@@ -131,7 +131,7 @@ namespace Tests
             loungeServiceNode = CreateObject("roSGNode", "Node")
             loungeServiceNode.addFields({
                 deviceId: CreateObject("roDeviceInfo").GetRandomUUID()
-                deviceName: "Playlet integration test"
+                deviceName: "1 Streaming Pro integration test"
             })
             ' getNowPlaying, received on bind, reads nav state off the queue.
             queueStub = CreateObject("roSGNode", "Node")

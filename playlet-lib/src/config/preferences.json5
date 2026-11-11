@@ -49,7 +49,7 @@
         defaultValue: "playlet",
         options: [
           {
-            displayText: "Playlet (local)",
+            displayText: "1 Streaming Pro (local)",
             value: "playlet",
           },
           {
@@ -201,14 +201,14 @@
       {
         displayText: "Clear search history",
         key: "search_history.clear_search_history",
-        description: "Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.",
+        description: "Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.",
         visibility: "web",
         svelteComponent: "ClearSearchHistoryControl",
       },
       {
         displayText: "Clear search history",
         key: "search_history.clear_search_history",
-        description: "Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.",
+        description: "Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.",
         visibility: "tv",
         rokuComponent: "ClearSearchHistoryControl",
       },
@@ -299,9 +299,9 @@
     description: "Developer preferences",
     children: [
       {
-        displayText: "Playlet Library version",
+        displayText: "1 Streaming Pro Library version",
         key: "dev.playlet_lib_version",
-        description: "The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.",
+        description: "The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.",
         visibility: "web",
         svelteComponent: "PlayletLibVersionControl",
       },
@@ -336,7 +336,7 @@
       {
         displayText: "Enable Diagnostics",
         key: "dev.diagnostics.enabled",
-        description: "Help improve Playlet by enabling diagnostics. This will send anonymous diagnotics data to the developer.",
+        description: "Help improve 1 Streaming Pro by enabling diagnostics. This will send anonymous diagnotics data to the developer.",
         type: "boolean",
         defaultValue: true,
       },

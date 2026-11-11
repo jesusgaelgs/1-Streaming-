@@ -65,7 +65,7 @@ function OnLoadStatusChanged() as void
     libUrl = m.playletLibUrls[m.playletLibUrlIndex]
     if m.lib.loadStatus = "ready"
         RemoveComponentLibrary()
-        Logger.Log(`Playlet lib loaded from ${libUrl.link} in ${m.timer.TotalMilliseconds()} ms`)
+        Logger.Log(`1 Streaming Pro lib loaded from ${libUrl.link} in ${m.timer.TotalMilliseconds()} ms`)
         m.timer = invalid
         m.scene.playletLibLoadedUrl = libUrl
         container = m.scene.findNode("MainSceneContainer")
@@ -75,7 +75,7 @@ function OnLoadStatusChanged() as void
     end if
 
     if m.lib.loadStatus = "failed"
-        Logger.Log(`Playlet lib failed to load from ${libUrl.link} in ${m.timer.TotalMilliseconds()} ms`)
+        Logger.Log(`1 Streaming Pro lib failed to load from ${libUrl.link} in ${m.timer.TotalMilliseconds()} ms`)
         ' Try next url
         m.playletLibUrlIndex += 1
         LoadPlayletLib()
@@ -104,13 +104,13 @@ function LoadComponentLibrary(uri as string)
     ' bs:disable-next-line NO_OBSERVE_STRING_CALLBACK
     m.lib.observeField("loadStatus", "OnLoadStatusChanged")
 
-    Logger.Log(`Loading Playlet lib from ${uri}`)
+    Logger.Log(`Loading 1 Streaming Pro lib from ${uri}`)
     m.lib.uri = uri
 end function
 
 function ShowPlayletLibLoadErrorDialog()
     message = [
-        "Could not load Playlet component library from any of the following urls:",
+        "Could not load 1 Streaming Pro component library from any of the following urls:",
     ]
 
     bulletText = []
@@ -119,8 +119,8 @@ function ShowPlayletLibLoadErrorDialog()
     end for
 
     bottomText = [
-        "Please restart Playlet.",
-        "If the problem persist, contact Playlet authors."
+        "Please restart 1 Streaming Pro.",
+        "If the problem persist, contact 1 Streaming Pro authors."
     ]
 
     DialogShowError(message, bulletText, bottomText)

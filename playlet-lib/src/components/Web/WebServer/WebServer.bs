@@ -29,7 +29,7 @@ function CreateSettings(messagePort as object) as object
     settings.MaxRequestLength = 2097152
     settings.PackageName = "Playlet"
     settings.Port = 8888
-    settings.ServerName = "Playlet Web Server"
+    settings.ServerName = "1 Streaming Pro Web Server"
     settings.TimeoutInMs = 30000
     settings.WebSocketsEnabled = false
     return settings

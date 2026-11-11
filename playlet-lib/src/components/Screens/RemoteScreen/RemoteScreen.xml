@@ -33,20 +33,20 @@
 
                     <SettingCategory
                         id="WebAppButton"
-                        displayText="Playlet Web App"
-                        description="Use Playlet Remote in the browser"
+                        displayText="1 Streaming Pro Web App"
+                        description="Use 1 Streaming Pro Remote in the browser"
                         maxWidth="540" />
 
                     <SettingCategory
                         id="LinkWithWiFiButton"
                         displayText="Link with Wi-Fi"
-                        description="Cast from the YouTube app to Playlet"
+                        description="Cast from the YouTube app to 1 Streaming Pro"
                         maxWidth="540" />
 
                     <SettingCategory
                         id="LinkWithTvButton"
                         displayText="Link with TV code"
-                        description="Cast from the YouTube app to Playlet"
+                        description="Cast from the YouTube app to 1 Streaming Pro"
                         maxWidth="540" />
                 </LayoutGroup>
 

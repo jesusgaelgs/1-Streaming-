@@ -165,8 +165,8 @@
         <translation>Please note that an Invidious account is different from a YouTube account.</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>Do you want to exit Playlet?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>Do you want to exit 1 Streaming Pro?</translation>
     </message>
     <message>
         <source>Sort %1 by</source>
@@ -245,8 +245,8 @@
         <translation>Backend changed</translation>
     </message>
     <message>
-        <source>Backend changed to Playlet, because no Invidious instance is set.</source>
-        <translation>Backend changed to Playlet, because no Invidious instance is set.</translation>
+        <source>Backend changed to 1 Streaming Pro, because no Invidious instance is set.</source>
+        <translation>Backend changed to 1 Streaming Pro, because no Invidious instance is set.</translation>
     </message>
     <message>
         <source>Select a service to login</source>
@@ -265,12 +265,12 @@
         <translation>Disclaimer</translation>
     </message>
     <message>
-        <source>Playlet is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
-        <translation>Playlet is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</translation>
+        <source>1 Streaming Pro is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
+        <translation>1 Streaming Pro is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</translation>
     </message>
     <message>
-        <source>By using Playlet and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of Playlet are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
-        <translation>By using Playlet and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of Playlet are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</translation>
+        <source>By using 1 Streaming Pro and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of 1 Streaming Pro are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
+        <translation>By using 1 Streaming Pro and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of 1 Streaming Pro are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</translation>
     </message>
     <message>
         <source>Use responsibly, especially if your YouTube account is tied to business or monetization.</source>
@@ -685,12 +685,12 @@
         <translation>Could not get IP address: are we connected to the internet?</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Playlet Web App</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>1 Streaming Pro Web App</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Use Playlet Remote in the browser</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>Use 1 Streaming Pro Remote in the browser</translation>
     </message>
     <message>
         <source>Link with Wi-Fi</source>
@@ -701,8 +701,8 @@
         <translation>Link with TV code</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Cast from the YouTube app to Playlet</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Cast from the YouTube app to 1 Streaming Pro</translation>
     </message>
     <message>
         <source>On your phone, connect to the same Wi-Fi network as this device.</source>
@@ -825,8 +825,8 @@
         <translation>Instance</translation>
     </message>
     <message>
-        <source>Playlet built-in backend</source>
-        <translation>Playlet built-in backend</translation>
+        <source>1 Streaming Pro built-in backend</source>
+        <translation>1 Streaming Pro built-in backend</translation>
     </message>
     <message>
         <source>Invidious instance to use. Example: https://example.com</source>
@@ -905,8 +905,8 @@
         <translation>Clear search history</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</translation>
     </message>
     <message>
         <source>Search history cleared.</source>
@@ -945,12 +945,12 @@
         <translation>Developer preferences</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Playlet Library version</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>1 Streaming Pro Library version</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</translation>
     </message>
     <message>
         <source>Loading</source>
@@ -1125,8 +1125,8 @@
         <translation>Invidious instance to use. Example: https://example.com. Find more instances at %INVIDIOUS_PUBLIC_INSTANCES%</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Thank you for using Playlet.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Thank you for using 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>You have feedback? Let us know by %IssueStart%creating an issue on Github%IssueEnd% or by %EmailStart%sending an email%EmailEnd%.</source>
@@ -1141,16 +1141,16 @@
         <translation>Apply</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>Are you sure you want to change the Playlet Library version to %1?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>Are you sure you want to change the 1 Streaming Pro Library version to %1?</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>This will restart Playlet.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>This will restart 1 Streaming Pro.</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>Playlet Library version changed. Playlet will now restart.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</translation>
     </message>
     <message>
         <source>Error with login, please refresh the page.</source>
@@ -1397,8 +1397,8 @@
         <translation>Enable Diagnostics</translation>
     </message>
     <message>
-        <source>Help improve Playlet by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
-        <translation>Help improve Playlet by enabling diagnostics. This will send anonymous diagnotics data to the developer.</translation>
+        <source>Help improve 1 Streaming Pro by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
+        <translation>Help improve 1 Streaming Pro by enabling diagnostics. This will send anonymous diagnotics data to the developer.</translation>
     </message>
     <message>
         <source>Select keyboard language</source>

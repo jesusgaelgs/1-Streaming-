@@ -247,7 +247,7 @@ namespace Innertube
 
         if status = "LOGIN_REQUIRED"
             ' TODO:P2 localize
-            errorLines.Push("Hint: Log in to the YouTube app on your phone, then cast the video to Playlet.")
+            errorLines.Push("Hint: Log in to the YouTube app on your phone, then cast the video to 1 Streaming Pro.")
 
             hasAccessToken = ValidString(playerRequest.GetHeaders()["Authorization"]).Len() > "Bearer ".Len()
             hasCtt = ValidString(playerRequest.GetTextBody()).InStr("credentialTransferTokens") <> -1
@@ -703,7 +703,7 @@ namespace Innertube
     end function
 
     ' YouTube.js sets cver to hardcoded values that might be different from
-    ' What's used in Playlet. There's no indication that this makes a difference,
+    ' What's used in 1 Streaming Pro. There's no indication that this makes a difference,
     ' but it makes sense to keep it consistent.
     function ResetUrlClientVersion(url as dynamic, requestClient = invalid as dynamic) as dynamic
         if StringUtils.IsNullOrEmpty(url)

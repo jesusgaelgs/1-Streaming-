@@ -165,7 +165,7 @@ namespace Invidious
             if not IsAssociativeArray(metadata)
                 return metadata
             end if
-            ' Playlet's built-in instance answers with innertube metadata, parser and live
+            ' 1 Streaming Pro's built-in instance answers with innertube metadata, parser and live
             ' timeline included; an Invidious server sends neither.
             if StringUtils.IsNullOrEmpty(metadata["parser"])
                 metadata["parser"] = "invidious"

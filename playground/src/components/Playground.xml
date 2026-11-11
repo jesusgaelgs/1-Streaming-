@@ -5,6 +5,6 @@
         <field id="inputArgs" type="assocarray" alwaysNotify="true" />
     </interface>
     <children>
-        <Label text="Welcome to Playlet Playground!" />
+        <Label text="Welcome to 1 Streaming Pro Playground!" />
     </children>
 </component>

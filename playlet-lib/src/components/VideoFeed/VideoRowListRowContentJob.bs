@@ -233,7 +233,7 @@ function RemoveSingleFailedRow(error as dynamic, feedSource as object, feedSourc
     ' Invidious admins disable endpoints sometimes
     isError = isError or error.instr("Administrator has disabled this endpoint") <> -1
     isError = isError or error.instr("API disabled") <> -1
-    ' Playlet not supporting popular
+    ' 1 Streaming Pro not supporting popular
     isError = isError or feedSource.id = "inv_popular"
     if not isError
         return false

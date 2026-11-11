@@ -149,8 +149,8 @@
         <translation>Por favor, ten en cuenta que una cuenta de Invidious es diferente de una cuenta de YouTube.</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>¿Quieres salir de Playlet?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>¿Quieres salir de 1 Streaming Pro?</translation>
     </message>
     <message>
         <source>Sort %1 by</source>
@@ -537,8 +537,8 @@
         <translation>No hay Marcadores</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>Esto reiniciará Playlet.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>Esto reiniciará 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>Open Playlist</source>
@@ -609,8 +609,8 @@
         <translation>Añadir a la cola</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Gracias por usar Playlet.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Gracias por usar 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>Latest (default)</source>
@@ -841,12 +841,12 @@
         <translation>No se pudo obtener la dirección IP: ¿estás conectado a internet?</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Aplicación web de Playlet</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>Aplicación web de 1 Streaming Pro</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Utiliza el control remoto de Playlet en el navegador</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>Utiliza el control remoto de 1 Streaming Pro en el navegador</translation>
     </message>
     <message>
         <source>Link with Wi-Fi</source>
@@ -945,8 +945,8 @@
         <translation>Hace 1 año</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Transmitir desde la aplicación YouTube a Playlet</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Transmitir desde la aplicación YouTube a 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Tap the cast icon and select %1</source>
@@ -1013,8 +1013,8 @@
         <translation>Mostrar notificaciones cuando se salte una sección</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Borrar el historial de búsqueda de Playlet. Esto afectará a las sugerencias. Esto no afectará al historial de reproducción de Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Borrar el historial de búsqueda de 1 Streaming Pro. Esto afectará a las sugerencias. Esto no afectará al historial de reproducción de Invidious.</translation>
     </message>
     <message>
         <source>Error closing video</source>
@@ -1181,12 +1181,12 @@
         <translation>Otras configuraciones</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Versión de la biblioteca Playlet</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>Versión de la biblioteca 1 Streaming Pro</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>La versión de Playlet Lib que se utilizará. Estas corresponden a las versiones etiquetadas en Github. Las versiones que no tienen un archivo playlet-lib.zip están deshabilitadas.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>La versión de 1 Streaming Pro Lib que se utilizará. Estas corresponden a las versiones etiquetadas en Github. Las versiones que no tienen un archivo playlet-lib.zip están deshabilitadas.</translation>
     </message>
     <message>
         <source>Interaction Reminder (Subscribe)</source>
@@ -1197,16 +1197,16 @@
         <translation>Recordatorio de interacción</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>¿Estás seguro de que deseas cambiar la versión de la biblioteca Playlet a %1?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>¿Estás seguro de que deseas cambiar la versión de la biblioteca 1 Streaming Pro a %1?</translation>
     </message>
     <message>
         <source>Filler</source>
         <translation>Relleno</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>Se modificó la versión de la biblioteca Playlet. Playlet ahora se reiniciará.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>Se modificó la versión de la biblioteca 1 Streaming Pro. 1 Streaming Pro ahora se reiniciará.</translation>
     </message>
     <message>
         <source>Features</source>
@@ -1273,12 +1273,12 @@
         <translation>Descargo de responsabilidad</translation>
     </message>
     <message>
-        <source>Playlet is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
-        <translation>Playlet es una aplicación de terceros y no está afiliada, respaldada ni patrocinada por YouTube ni Google. Todas las marcas comerciales y marcas registradas mencionadas son propiedad de sus respectivos dueños y se utilizan únicamente con fines de identificación.</translation>
+        <source>1 Streaming Pro is a third-party app and is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks and registered trademarks mentioned are the property of their respective owners and are used only for identification purposes.</source>
+        <translation>1 Streaming Pro es una aplicación de terceros y no está afiliada, respaldada ni patrocinada por YouTube ni Google. Todas las marcas comerciales y marcas registradas mencionadas son propiedad de sus respectivos dueños y se utilizan únicamente con fines de identificación.</translation>
     </message>
     <message>
-        <source>By using Playlet and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of Playlet are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
-        <translation>Al usar Playlet e iniciar sesión con tu cuenta de YouTube, aceptas hacerlo bajo tu propia responsabilidad. Los desarrolladores de Playlet no se hacen responsables de ningún daño, incluyendo, entre otros, la pérdida de datos, la suspensión o el bloqueo de la cuenta, el pirateo informático o la pérdida de contenido.</translation>
+        <source>By using 1 Streaming Pro and signing in with your YouTube account, you acknowledge that you do so at your own risk. The developers of 1 Streaming Pro are not liable for any harm, including but not limited to data loss, account suspension or ban, hacking, or loss of content.</source>
+        <translation>Al usar 1 Streaming Pro e iniciar sesión con tu cuenta de YouTube, aceptas hacerlo bajo tu propia responsabilidad. Los desarrolladores de 1 Streaming Pro no se hacen responsables de ningún daño, incluyendo, entre otros, la pérdida de datos, la suspensión o el bloqueo de la cuenta, el pirateo informático o la pérdida de contenido.</translation>
     </message>
     <message>
         <source>Use responsibly, especially if your YouTube account is tied to business or monetization.</source>
@@ -1337,8 +1337,8 @@
         <translation>Desactivar videos shorts.</translation>
     </message>
     <message>
-        <source>Playlet built-in backend</source>
-        <translation>Servidor integrado de Playlet</translation>
+        <source>1 Streaming Pro built-in backend</source>
+        <translation>Servidor integrado de 1 Streaming Pro</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -1393,16 +1393,16 @@
         <translation>Habilitar diagnósticos</translation>
     </message>
     <message>
-        <source>Help improve Playlet by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
-        <translation>Ayuda a mejorar Playlet activando las herramientas de diagnóstico. Esto enviará datos de diagnóstico anónimos al desarrollador.</translation>
+        <source>Help improve 1 Streaming Pro by enabling diagnostics. This will send anonymous diagnotics data to the developer.</source>
+        <translation>Ayuda a mejorar 1 Streaming Pro activando las herramientas de diagnóstico. Esto enviará datos de diagnóstico anónimos al desarrollador.</translation>
     </message>
     <message>
         <source>Backend changed</source>
         <translation>Backend cambiado</translation>
     </message>
     <message>
-        <source>Backend changed to Playlet, because no Invidious instance is set.</source>
-        <translation type="unfinished">Backend cambiado a Playlet, porque no hay ninguna instancia de Invidious colocada.</translation>
+        <source>Backend changed to 1 Streaming Pro, because no Invidious instance is set.</source>
+        <translation type="unfinished">Backend cambiado a 1 Streaming Pro, porque no hay ninguna instancia de Invidious colocada.</translation>
     </message>
 </context>
 </TS>

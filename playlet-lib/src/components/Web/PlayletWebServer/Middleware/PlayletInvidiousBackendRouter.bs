@@ -18,7 +18,7 @@ namespace Http
             response = context.response
 
             response.Json({
-                "error": "Playlet built-in Invidious backend is not a real Invidious instance, and does not support accounts. Please use the login with YouTube option instead."
+                "error": "1 Streaming Pro built-in Invidious backend is not a real Invidious instance, and does not support accounts. Please use the login with YouTube option instead."
             })
             response.http_code = 400
             return true
@@ -198,7 +198,7 @@ namespace Http
             if not hasContinuation
                 page = ValidString(request.query.page).ToInt()
                 if page > 1
-                    LogErrorNoTelemetry("Playlet backend does not use history pagination (use continuation instead)")
+                    LogErrorNoTelemetry("1 Streaming Pro backend does not use history pagination (use continuation instead)")
                     response.Json({
                         "items": []
                     })
@@ -231,7 +231,7 @@ namespace Http
             response = context.response
 
             response.Json({
-                "error": "Playlet built-in Invidious backend is not a real Invidious instance, and does not support stats."
+                "error": "1 Streaming Pro built-in Invidious backend is not a real Invidious instance, and does not support stats."
             })
             response.http_code = 400
             return true
@@ -290,7 +290,7 @@ namespace Http
             end if
 
             response.Json({
-                "error": "Playlet built-in Invidious backend does not support popular videos."
+                "error": "1 Streaming Pro built-in Invidious backend does not support popular videos."
             })
             response.http_code = 400
             return true
@@ -696,12 +696,12 @@ namespace Http
             if not StringUtils.IsNullOrEmpty(index)
                 index = index.ToInt()
                 if index > 1
-                    LogErrorNoTelemetry("Playlet backend does not use playlist pagination (use continuation instead)")
+                    LogErrorNoTelemetry("1 Streaming Pro backend does not use playlist pagination (use continuation instead)")
                     playlist.videos = []
                 end if
             end if
 
-            ' info_only is Playlet specific. If set, we only care about the playlist info,
+            ' info_only is 1 Streaming Pro specific. If set, we only care about the playlist info,
             ' not the videos. This usually means we're loading info for a bookmark.
             ' When that's the case, we want to get rid of the continuation, because a
             ' continuation from an unauthenticated innertube request is not compatible
@@ -785,7 +785,7 @@ namespace Http
                     options.params = params
                 end if
 
-                ' sort by is a special sorting argument handled by Playlet backend.
+                ' sort by is a special sorting argument handled by 1 Streaming Pro backend.
                 ' It's a JSON object that could have the "params" key or "continuation"
                 ' key. In this case, we will override these options with the values
                 ' from the "sort_by" query parameter. If we do get an Invidious "sort_by"
@@ -841,7 +841,7 @@ namespace Http
                     '    "id": "{ \"params\": \"string\", \"continuation\": \"string\" }"
                     '   }]
                     ' This so sorting doesn't interfere with actual params or continuation.
-                    ' Sort options are later parsed by Playlet backend.
+                    ' Sort options are later parsed by 1 Streaming Pro backend.
                     sortOptions = channel.sortOptions
                     if IsArray(sortOptions) and sortOptions.Count() > 0
                         for i = 0 to sortOptions.Count() - 1

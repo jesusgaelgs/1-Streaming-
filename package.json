@@ -1,7 +1,7 @@
 {
-    "name": "playlet",
+    "name": "1streamingpro",
     "version": "0.48.10",
-    "description": "Unofficial YouTube client for Roku",
+    "description": "1 Streaming Pro - streaming client for Roku",
     "devDependencies": {
         "@rokucommunity/bslint": "^0.8.46",
         "@types/crypto-js": "^4.2.2",

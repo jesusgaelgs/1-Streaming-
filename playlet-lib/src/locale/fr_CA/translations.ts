@@ -149,8 +149,8 @@
         <translation>Veuillez noter qu&apos;un compte Invidious est différent d&apos;un compte YouTube.</translation>
     </message>
     <message>
-        <source>Do you want to exit Playlet?</source>
-        <translation>Voulez-vous quitter Playlet?</translation>
+        <source>Do you want to exit 1 Streaming Pro?</source>
+        <translation>Voulez-vous quitter 1 Streaming Pro?</translation>
     </message>
     <message>
         <source>Sort %1 by</source>
@@ -593,12 +593,12 @@
         <translation>Impossible d&apos;obtenir l&apos;adresse IP: est-on connecté à Internet?</translation>
     </message>
     <message>
-        <source>Playlet Web App</source>
-        <translation>Application Web Playlet</translation>
+        <source>1 Streaming Pro Web App</source>
+        <translation>Application Web 1 Streaming Pro</translation>
     </message>
     <message>
-        <source>Use Playlet Remote in the browser</source>
-        <translation>Controller Playlet depuis le navigateur</translation>
+        <source>Use 1 Streaming Pro Remote in the browser</source>
+        <translation>Controller 1 Streaming Pro depuis le navigateur</translation>
     </message>
     <message>
         <source>Link with Wi-Fi</source>
@@ -609,8 +609,8 @@
         <translation>Connecter avec code TV</translation>
     </message>
     <message>
-        <source>Cast from the YouTube app to Playlet</source>
-        <translation>Diffusion depuis YouTube vers Playlet</translation>
+        <source>Cast from the YouTube app to 1 Streaming Pro</source>
+        <translation>Diffusion depuis YouTube vers 1 Streaming Pro</translation>
     </message>
     <message>
         <source>On your phone, connect to the same Wi-Fi network as this device.</source>
@@ -757,8 +757,8 @@
         <translation>Effacer l&apos;historique de recherche</translation>
     </message>
     <message>
-        <source>Clear search history from Playlet. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
-        <translation>Effacer l&apos;historique de recherche de Playlet. Cela affecte les suggestions de recherche. Cela n&apos;affecte pas l&apos;historique de visionnage sur Invidious.</translation>
+        <source>Clear search history from 1 Streaming Pro. This affects the search suggestions. This does not affect the watch history on Invidious.</source>
+        <translation>Effacer l&apos;historique de recherche de 1 Streaming Pro. Cela affecte les suggestions de recherche. Cela n&apos;affecte pas l&apos;historique de visionnage sur Invidious.</translation>
     </message>
     <message>
         <source>Search history cleared.</source>
@@ -797,12 +797,12 @@
         <translation>Préférences du développeur</translation>
     </message>
     <message>
-        <source>Playlet Library version</source>
-        <translation>Version de Playlet Library</translation>
+        <source>1 Streaming Pro Library version</source>
+        <translation>Version de 1 Streaming Pro Library</translation>
     </message>
     <message>
-        <source>The version of Playlet Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
-        <translation>La version de Playlet Lib à utiliser. Celles-ci correspondent aux versions taguées sur Github. Les versions qui n&apos;ont pas de fichier playlet-lib.zip sont désactivées.</translation>
+        <source>The version of 1 Streaming Pro Lib to use. These correspond to tagged releases on Github. Releases that do not have a playlet-lib.zip file are disabled.</source>
+        <translation>La version de 1 Streaming Pro Lib à utiliser. Celles-ci correspondent aux versions taguées sur Github. Les versions qui n&apos;ont pas de fichier playlet-lib.zip sont désactivées.</translation>
     </message>
     <message>
         <source>Loading</source>
@@ -953,8 +953,8 @@
         <translation>Instance Invidious à utiliser. Exemple : https://example.com. Trouvez plus d&apos;instances sur %INVIDIOUS_PUBLIC_INSTANCES%</translation>
     </message>
     <message>
-        <source>Thank you for using Playlet.</source>
-        <translation>Merci d&apos;utiliser Playlet.</translation>
+        <source>Thank you for using 1 Streaming Pro.</source>
+        <translation>Merci d&apos;utiliser 1 Streaming Pro.</translation>
     </message>
     <message>
         <source>You have feedback? Let us know by %IssueStart%creating an issue on Github%IssueEnd% or by %EmailStart%sending an email%EmailEnd%.</source>
@@ -969,16 +969,16 @@
         <translation>Appliquer</translation>
     </message>
     <message>
-        <source>Are you sure you want to change the Playlet Library version to %1?</source>
-        <translation>Êtes-vous sûr de vouloir changer la version de Playlet Lib en %1 ?</translation>
+        <source>Are you sure you want to change the 1 Streaming Pro Library version to %1?</source>
+        <translation>Êtes-vous sûr de vouloir changer la version de 1 Streaming Pro Lib en %1 ?</translation>
     </message>
     <message>
-        <source>This will restart Playlet.</source>
-        <translation>Cela redémarrera Playlet.</translation>
+        <source>This will restart 1 Streaming Pro.</source>
+        <translation>Cela redémarrera 1 Streaming Pro.</translation>
     </message>
     <message>
-        <source>Playlet Library version changed. Playlet will now restart.</source>
-        <translation>La version de Playlet Lib a été modifiée. Playlet va maintenant redémarrer.</translation>
+        <source>1 Streaming Pro Library version changed. 1 Streaming Pro will now restart.</source>
+        <translation>La version de 1 Streaming Pro Lib a été modifiée. 1 Streaming Pro va maintenant redémarrer.</translation>
     </message>
     <message>
         <source>Error with login, please refresh the page.</source>

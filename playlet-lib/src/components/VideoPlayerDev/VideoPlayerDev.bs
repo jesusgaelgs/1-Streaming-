@@ -74,7 +74,7 @@ function Initialize()
     ' (autoplayAfterSeek only governs resume-after-REBUFFER per the Video docs), so the paused state is preserved
     ' by re-pausing on the next playing edge.
     m.repauseAfterSeek = false
-    ' live edge clock anchor: the manifest's availabilityStartTime (Playlet generates it), as epoch seconds.
+    ' live edge clock anchor: the manifest's availabilityStartTime (1 Streaming Pro generates it), as epoch seconds.
     ' The edge is then wallClock - anchor — continuous through pauses/rebuffers/startup. The fallback pair
     ' anchors off duration reports for the rare live stream without the metadata.
     m.liveAstSeconds = -1

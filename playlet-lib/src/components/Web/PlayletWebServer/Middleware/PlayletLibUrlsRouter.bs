@@ -35,7 +35,7 @@ namespace Http
             response = context.response
 
             ' TODO:P2 localization
-            dialog = DialogUtils.ShowOnScreenCodeDialog(DialogUtils.OnScreenCodePurpose.SetPlayletLibUrls, "Change Playlet library")
+            dialog = DialogUtils.ShowOnScreenCodeDialog(DialogUtils.OnScreenCodePurpose.SetPlayletLibUrls, "Change 1 Streaming Pro library")
             if dialog = invalid
                 response.Default(429, "Too Many Requests")
                 return true
