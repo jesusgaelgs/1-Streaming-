@@ -1,9 +1,9 @@
 {
-  inputHash: 'bddcd3a31bb8f9a48420a5e0282a21f2',
+  inputHash: 'b404549a8932054174541aed5fd944e5',
   outputs: [
     {
       outputFilePath: 'images/logo-dark.png',
-      outputHash: 'e58723701c7e65b4146886bff8f60407',
+      outputHash: '3427f994279efb485b95d09c9e40f477',
       width: 254,
       height: 100,
     },
