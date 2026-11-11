@@ -39,10 +39,9 @@ function GetPlayletLibUrls() as object
             return savedUrls
         end if
 
-        githubSquashFs = { type: "github-squashfs", link: Manifest.ReadValue("playlet_lib_squashfs_remote_url") }
-        githubZip = { type: "github-zip", link: Manifest.ReadValue("playlet_lib_zip_remote_url") }
+        ' 1 Streaming Pro: always use the lib bundled in this package, never upstream (iBicha) GitHub releases.
         embedded = { type: "embedded-zip", link: Manifest.ReadValue("playlet_lib_zip_embedded_url") }
-        return [githubSquashFs, githubZip, embedded]
+        return [embedded]
     #end if
 end function
 
